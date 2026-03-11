@@ -17,8 +17,22 @@
 
 Section 1: Terms and Conditions of Group Work
 
-1.1 Group Allocation and Grades
-To be completed by Bishow after team discussion
+
+### 1.1 Group Allocation and Grades
+Based on our team discussion:
+
+- All four members (Rohan, Bishow, Jobanpreet, Simranpreet) will receive the same base grade for Assessment 2 and 4
+- A fair contribution is defined as:
+  * Completing assigned tasks by agreed deadlines
+  * Attending at least 80% of scheduled meetings
+  * Responding to Teams messages within 24 hours (weekdays)
+  * Making at least 2 meaningful commits to GitHub per assessment
+  * Participating actively in discussions
+- If a member fails to meet these expectations:
+  1. Team will discuss in next meeting
+  2. Issue will be documented in Teams
+  3. If no improvement after 1 week, teaching team will be consulted
+  4. Grade adjustment may be requested from teaching team
 
 1.2 Communication
 To be completed by team discussion
