@@ -18,7 +18,7 @@
 Section 1: Terms and Conditions of Group Work
 
 1.1 Group Allocation and Grades
-To be completed by Rohan after team discussion
+To be completed by Bishow after team discussion
 
 1.2 Communication
 To be completed by team discussion
