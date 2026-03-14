@@ -88,8 +88,40 @@ Our team agrees:
 
 
 
-Section 2: Provisional Milestones and Checkpoints
-To be completed by Jobanpreet after team discussion
+## Section 2: Provisional Milestones and Checkpoints
 
-| Task | Due Date | Owner | Review Date |
+### Assessment 2 Timeline (Due: Week 8)
+
+| Task | Target Date | Primary Owner | Review Date |
+|------|-------------|---------------|-------------|
+| Research Youth Justice & Crime theme | Week 5 | ALL | Week 5 Meeting |
+| Draft Introduction & Problem Statement | Week 6 | Rohan | Week 6 Meeting |
+| Draft System Architecture Diagram | Week 6 | Bishow | Week 6 Meeting |
+| Draft ADRs 1-3 | Week 6 | Jobanpreet | Week 7 Meeting |
+| Draft System Requirements | Week 6 | Simranpreet | Week 7 Meeting |
+| Integrate all sections | Week 7 | ALL | Week 7 Meeting |
+| Final review and polish | Week 7 | Rohan & Simranpreet | Week 7 Meeting |
+| Submit Assessment 2 | Week 8 | Jobanpreet | Pre-submission |
+
+### Assessment 4 Timeline (Due: Week 12)
+
+| Task | Target Date | Primary Owner | Review Date |
+|------|-------------|---------------|-------------|
+| Review Assessment 2 feedback | Week 9 | ALL | Week 9 Meeting |
+| Draft ADRs 4-6 | Week 10 | Bishow & Jobanpreet | Week 10 Meeting |
+| Update system design | Week 10 | Rohan | Week 10 Meeting |
+| Draft implementation details | Week 11 | Simranpreet | Week 11 Meeting |
+| Draft team reflection | Week 11 | ALL | Week 11 Meeting |
+| Final integration | Week 11 | ALL | Week 11 Meeting |
+| Submit Assessment 4 | Week 12 | Jobanpreet | Week 12 Meeting |
+
+### Internal Checkpoints
+
+| Checkpoint | Date | Purpose |
+|------------|------|---------|
+| Weekly Meeting | Every Monday 6pm | Progress check, task assignment |
+| Mid-point Review | Week 5 | Assessment 2 progress check |
+| Pre-submission Review | Week 7 | Final Assessment 2 review |
+| Progress Check | Week 10 | Assessment 4 progress |
+| Final Review | Week 11 | Assessment 4 final review |
 
