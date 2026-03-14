@@ -1,9 +1,9 @@
- Group Contract: Group 18
+# Group Contract: Group 18
 
- Team Information
-- Project Theme: Youth Justice & Crime
-- Grading Option: A
-- Communication Response Time: 24 hours
+## Team Information
+- **Project Theme:** Youth Justice & Crime
+- **Grading Option:** A
+- **Communication Response Time:** 24 hours
 
 ### Team Members
 | Name | Student ID | 
