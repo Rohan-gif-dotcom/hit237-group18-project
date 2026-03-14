@@ -68,8 +68,8 @@ Our commitments:
 5. We encourage questions - no question is "stupid"
 6. We respect that some members work better at different times
 
-1.5 Conflict Resolution
-To be completed by team discussion
+### 1.5 Conflict Resolution
+Step 1 - Team Discussion: Disagreement discussed in team meeting. Each person explains their view without interruption.
 
  1.6 Academic Integrity and AI Use
 To be completed by Simranpreet after team discussion
