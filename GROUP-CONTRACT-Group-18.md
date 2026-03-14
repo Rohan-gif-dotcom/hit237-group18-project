@@ -35,9 +35,10 @@ Based on our team discussion:
   4. Grade adjustment may be requested from teaching team
 
 1.2 Communication
- *Primary platform: Microsoft Teams 
- *Response time: Maximum 24 hours on weekdays, 48 hours on weekends
- *Weekly meetings: As scheduled and Emergency Meetings As required
+ - Primary platform: Microsoft Teams 
+ - Response time: Maximum 24 hours on weekdays, 48 hours on weekends
+ - Weekly meetings: As scheduled and Emergency Meetings As required
+ - If you cannot attend meeting, notify team at least 2 hours before
 
 1.3 Task Ownership and Tracking
 To be completed by Jobanpreet after team discussion
