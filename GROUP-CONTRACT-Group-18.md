@@ -67,7 +67,6 @@ Our commitments:
 4. Documentation will be clear and detailed
 5. We encourage questions - no question is "stupid"
 6. We respect that some members work better at different times
-To be completed by Bishow after team discussion
 
 1.5 Conflict Resolution
 To be completed by team discussion
