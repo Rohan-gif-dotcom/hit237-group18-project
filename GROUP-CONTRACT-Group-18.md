@@ -72,6 +72,7 @@ Our commitments:
  Step 1 - Team Discussion: Disagreement discussed in team meeting. Each person explains their view without interruption.
  Step 2 - Vote: If no agreement, team votes. Majority decision accepted.
  Step 3 - Tutor Mediation: If disagreement affects progress, invite tutor to next meeting.
+ Step 4 - Teaching Team: If unresolved, send joint email to teaching team explaining situation.
 
  1.6 Academic Integrity and AI Use
 To be completed by Simranpreet after team discussion
