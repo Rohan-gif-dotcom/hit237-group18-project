@@ -37,6 +37,7 @@ Based on our team discussion:
 1.2 Communication
  *Primary platform: Microsoft Teams 
  *Response time: Maximum 24 hours on weekdays, 48 hours on weekends
+ *Weekly meetings: As scheduled and Emergency Meetings As required
 
 1.3 Task Ownership and Tracking
 To be completed by Jobanpreet after team discussion
