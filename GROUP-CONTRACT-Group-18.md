@@ -53,7 +53,20 @@ Based on our team discussion:
   * Providing pair programming support
   * Reassigning if necessary
 - No task is "done" until committed to GitHub and reviewed by at least one other member
-1.4 Diverse Working Styles
+- 
+### 1.4 Diverse Working Styles
+We acknowledge our different:
+- Course schedules and work commitments
+- Learning speeds
+- Technical backgrounds
+
+Our commitments:
+1. Meetings will rotate times if needed to accommodate everyone
+2. All technical concepts will be explained - no assumption of prior knowledge
+3. We will use pair programming when someone needs help
+4. Documentation will be clear and detailed
+5. We encourage questions - no question is "stupid"
+6. We respect that some members work better at different times
 To be completed by Bishow after team discussion
 
 1.5 Conflict Resolution
