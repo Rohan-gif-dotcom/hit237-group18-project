@@ -40,8 +40,19 @@ Based on our team discussion:
  - Weekly meetings: As scheduled and Emergency Meetings As required
  - If you cannot attend meeting, notify team at least 2 hours before
 
-1.3 Task Ownership and Tracking
-To be completed by Jobanpreet after team discussion
+### 1.3 Task Ownership and Tracking
+- All tasks will be tracked using GitHub Projects
+- Each task must include:
+  * Clear description
+  * Assigned owner
+  * Due date
+- Tasks assigned during weekly meetings
+- If falling behind: Notify team immediately on Teams
+- Team will respond by:
+  * Adjusting deadline if valid reason
+  * Providing pair programming support
+  * Reassigning if necessary
+- No task is "done" until committed to GitHub and reviewed by at least one other member
 1.4 Diverse Working Styles
 To be completed by Bishow after team discussion
 
