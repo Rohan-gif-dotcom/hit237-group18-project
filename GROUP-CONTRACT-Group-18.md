@@ -35,8 +35,8 @@ Based on our team discussion:
   4. Grade adjustment may be requested from teaching team
 
 1.2 Communication
-Primary platform: Microsoft Teams 
-Response time: Maximum 24 hours on weekdays, 48 hours on weekends
+*Primary platform: Microsoft Teams 
+*Response time: Maximum 24 hours on weekdays, 48 hours on weekends
 
 1.3 Task Ownership and Tracking
 To be completed by Jobanpreet after team discussion
