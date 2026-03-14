@@ -69,13 +69,22 @@ Our commitments:
 6. We respect that some members work better at different times
 
 ### 1.5 Conflict Resolution
- Step 1 - Team Discussion: Disagreement discussed in team meeting. Each person explains their view without interruption.
- Step 2 - Vote: If no agreement, team votes. Majority decision accepted.
- Step 3 - Tutor Mediation: If disagreement affects progress, invite tutor to next meeting.
- Step 4 - Teaching Team: If unresolved, send joint email to teaching team explaining situation.
+    - Step 1 - Team Discussion: Disagreement discussed in team meeting. Each person explains their view without interruption.
+    - Step 2 - Vote: If no agreement, team votes. Majority decision accepted.
+    - Step 3 - Tutor Mediation: If disagreement affects progress, invite tutor to next meeting.
+    - Step 4 - Teaching Team: If unresolved, send joint email to teaching team explaining situation.
 
- 1.6 Academic Integrity and AI Use
-To be completed by Simranpreet after team discussion
+### 1.6 Academic Integrity and AI Use
+Our team agrees:
+
+1. **Understanding Required:** Every member must understand any code or documentation submitted
+2. **AI Use Disclosure:** If AI tools (ChatGPT, Copilot) are used:
+   - Add comment: "Generated with [AI tool] on [date] - reviewed by [name]"
+   - Team must review and understand AI-generated content
+3. **Referencing:** All external sources properly cited
+4. **Original Work:** No copying from previous years or other groups
+5. **Review Process:** Before submission, all members review final document
+6. **Plagiarism Check:** We will use university tools to check before submitting
 
 
 
