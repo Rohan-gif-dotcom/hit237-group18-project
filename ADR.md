@@ -133,7 +133,7 @@ Business logic should be reusable and not duplicated across views.
 
 2. Logic inside models  
    - + Reusable  
-   - + Cleaner design  
+   - + Cleaner design  maintained
 
 ## Decision  
 We placed logic inside models (e.g., is_open method).
@@ -158,7 +158,7 @@ The project scope is relatively small and manageable.
 ## Alternatives Considered  
 1. Multiple apps (users, cases, programs)  
    - + Scalable  
-   - - More complex  
+   - - More complex  design
 
 2. Single app (core)  
    - + Simpler structure  
@@ -171,7 +171,7 @@ We used a single app named "core".
 Project structure  
 
 ## Consequences  
-+ Easy to manage  
++ Easy to manage project
 + Faster development  
 - May require refactoring for larger systems  
 
