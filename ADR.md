@@ -44,7 +44,7 @@ The application requires multiple views for listing and creating objects such as
 ## Alternatives Considered  
 1. Function-Based Views (FBVs)  
    - + Easier for beginners  
-   - - Repetitive code  
+   - - Repetitive code updated
 
 2. Class-Based Views (CBVs)  
    - + Reusable and modular  
